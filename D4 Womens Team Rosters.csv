@@ -1,0 +1,558 @@
+team_name,team_id,season,conference,conference_id,jersey,player,pos,yr,g,gs
+Dean Bulldogs,30219,2018,NECC,888,4,"Botelho, Liseta",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,12,"Cabral, Rocky",,N/A,10,10
+Dean Bulldogs,30219,2018,NECC,888,15,"Casanova, Destiny",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,12,"Cassanelli, Alex",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,15,"Cleveland, Jamaya",D,N/A,15,15
+Dean Bulldogs,30219,2018,NECC,888,21,"DeSisto, Nicole",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,16,"Dickson, Kim",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,9,"Dorfman, Jennifer",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,0,"Felto, Madison-Bailey",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,2,"Fisher, Makayla",,Fr,15,15
+Dean Bulldogs,30219,2018,NECC,888,11,"Gomes, Sydnie",,Fr,14,14
+Dean Bulldogs,30219,2018,NECC,888,5,"Hebert, Madison",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,20,"Holley, Na'Neq",G,N/A,2,2
+Dean Bulldogs,30219,2018,NECC,888,17,"Jobst, Kirsten",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,1,"Johnson, Genesis",M,N/A,15,15
+Dean Bulldogs,30219,2018,NECC,888,13,"LeBeau, Madeline",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,16,"McMahon, Lexie",A,N/A,10,10
+Dean Bulldogs,30219,2018,NECC,888,3,"Nherisson, Fran",M,N/A,6,6
+Dean Bulldogs,30219,2018,NECC,888,18,"Salvadore, Hannah",A,N/A,12,12
+Dean Bulldogs,30219,2018,NECC,888,7,"Saunders, Briana",,Fr,15,14
+Dean Bulldogs,30219,2018,NECC,888,6,"Springer, Shania",,N/A,8,7
+Dean Bulldogs,30219,2018,NECC,888,1,"Thompson-, Bernadette",,Fr,0,0
+Dean Bulldogs,30219,2018,NECC,888,14,"Wilks, Lauryn",A,N/A,14,14
+Dean Bulldogs,30219,2018,NECC,888,17,"Williams, Kheya",,N/A,2,2
+Dean Bulldogs,30219,2018,NECC,888,4,"Winborne, Chelsea",D,N/A,13,13
+Dean Bulldogs,30219,2017,NA,NA,4,"Botelho, Liseta",,N/A,11,11
+Dean Bulldogs,30219,2017,NA,NA,15,"Casanova, Destiny",,N/A,8,8
+Dean Bulldogs,30219,2017,NA,NA,12,"Cassanelli, Alex",,N/A,8,8
+Dean Bulldogs,30219,2017,NA,NA,21,"DeSisto, Nicole",,N/A,8,8
+Dean Bulldogs,30219,2017,NA,NA,16,"Dickson, Kim",,N/A,11,11
+Dean Bulldogs,30219,2017,NA,NA,9,"Dorfman, Jennifer",,N/A,10,10
+Dean Bulldogs,30219,2017,NA,NA,0,"Felto, Madison-Bailey",,N/A,9,9
+Dean Bulldogs,30219,2017,NA,NA,2,"Fisher, Makayla",,N/A,11,11
+Dean Bulldogs,30219,2017,NA,NA,11,"Gomes, Sydnie",,N/A,10,10
+Dean Bulldogs,30219,2017,NA,NA,5,"Hebert, Madison",,N/A,8,6
+Dean Bulldogs,30219,2017,NA,NA,17,"Jobst, Kirsten",,N/A,11,11
+Dean Bulldogs,30219,2017,NA,NA,13,"LeBeau, Madeline",,N/A,6,6
+Dean Bulldogs,30219,2017,NA,NA,7,"Saunders, Briana",,N/A,6,5
+Dean Bulldogs,30219,2017,NA,NA,1,"Thompson-, Bernadette",,N/A,5,3
+East. Mennonite Royals,203,2020,NA,NA,3,"Argueta-Rivas, Cindy",D,Fr,2,2
+East. Mennonite Royals,203,2020,NA,NA,27,"Ba, Zyeasha",D,Fr,2,2
+East. Mennonite Royals,203,2020,NA,NA,22,"Davis, Mykenzie",M,Fr,2,2
+East. Mennonite Royals,203,2020,NA,NA,6,"Eby, Ashlyn",D,Fr,2,2
+East. Mennonite Royals,203,2020,NA,NA,17,"Garcia-Sanchez, Briana",ATT,Fr,2,2
+East. Mennonite Royals,203,2020,NA,NA,7,"Gardner, Kenzie",M,Fr,2,1
+East. Mennonite Royals,203,2020,NA,NA,23,"Ghally, Juliana",ATT,Fr,1,0
+East. Mennonite Royals,203,2020,NA,NA,20,"Habr, Callie",D,Fr,2,1
+East. Mennonite Royals,203,2020,NA,NA,8,"Hammond, Cat",ATT,So,2,2
+East. Mennonite Royals,203,2020,NA,NA,2,"Hedgepeth, Skylar",D,So,2,2
+East. Mennonite Royals,203,2020,NA,NA,5,"Johnson, Katie",ATT,Fr,2,2
+East. Mennonite Royals,203,2020,NA,NA,15,"Miller, Nicole",D,So,2,1
+East. Mennonite Royals,203,2020,NA,NA,26,"Nixon, Arianna",GK,Fr,2,2
+East. Mennonite Royals,203,2020,NA,NA,1,"Sainvilus, Jaida",D,Fr,1,0
+East. Mennonite Royals,203,2020,NA,NA,10,"Tricarico, Morgan",ATT,Fr,2,2
+IIT Scarlet Hawks,30172,2016,NA,NA,11,"Arias, Isa",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,12,"Avila, Abigail",,So,4,1
+IIT Scarlet Hawks,30172,2016,NA,NA,3,"Badiola, Chelsea",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,21,"Bennett, Heather",,So,6,5
+IIT Scarlet Hawks,30172,2016,NA,NA,20,"Borowcyzk, Hailey",D,Fr,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,20,"Carrerou, Florencia",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,13,"Colby, Sarah",A,N/A,6,6
+IIT Scarlet Hawks,30172,2016,NA,NA,1,"Cusack, Catherine",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,15,"DeLuca, Alyssa",M,N/A,7,7
+IIT Scarlet Hawks,30172,2016,NA,NA,1,"Eraas, Marina",D,N/A,8,8
+IIT Scarlet Hawks,30172,2016,NA,NA,5,"Fitzpatrick-Meyers, Isabel",M,Fr,8,7
+IIT Scarlet Hawks,30172,2016,NA,NA,11,"Hoeller, Mimi",,N/A,6,2
+IIT Scarlet Hawks,30172,2016,NA,NA,12,"Jones, Christian",D,Fr,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,18,"Kuitse, Mariah",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,1,"Ledbetter, Shacara",A,Fr,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,8,"Maciorowski, Sarah",M,Fr,7,7
+IIT Scarlet Hawks,30172,2016,NA,NA,9,"Meredith, Madison",M,N/A,8,8
+IIT Scarlet Hawks,30172,2016,NA,NA,5,"Meyers, Isabel",,Fr,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,4,"Miller, Alex",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,2,"Nguyen, Sany",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,3,"Perez, Clarissa",,N/A,2,0
+IIT Scarlet Hawks,30172,2016,NA,NA,16,"Reineke, Cassandra",D,Fr,8,8
+IIT Scarlet Hawks,30172,2016,NA,NA,24,"Reynolds, Abbie",,N/A,8,4
+IIT Scarlet Hawks,30172,2016,NA,NA,2,"Rubin, Isabella",D,N/A,8,8
+IIT Scarlet Hawks,30172,2016,NA,NA,23,"Sanabria, Ashleyann",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,4,"Sanankoua, Nene",M,Fr,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,12,"Stromberg, Breanne",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,6,"Sutkus, Ginta",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,22,"Thompson, Taylor",,So,5,3
+IIT Scarlet Hawks,30172,2016,NA,NA,11,"Torres, Sarah",,So,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,21,"Villagrana, Briana",GK,Fr,8,6
+IIT Scarlet Hawks,30172,2016,NA,NA,17,"Woog, Emilie",,So,8,8
+IIT Scarlet Hawks,30172,2016,NA,NA,6,"Wu, Kelly",,Fr,0,0
+IIT Scarlet Hawks,30172,2016,NA,NA,22,"Young, Jennifer",GK,N/A,8,8
+IIT Scarlet Hawks,30172,2015,NA,NA,11,"Arias, Isa",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,14,"Avila, Abigail",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,3,"Badiola, Chelsea",,Fr,15,15
+IIT Scarlet Hawks,30172,2015,NA,NA,21,"Bennett, Heather",,Fr,16,16
+IIT Scarlet Hawks,30172,2015,NA,NA,20,"Borowcyzk, Hailey",D,N/A,14,14
+IIT Scarlet Hawks,30172,2015,NA,NA,20,"Carrerou, Florencia",,Fr,16,16
+IIT Scarlet Hawks,30172,2015,NA,NA,1,"Cusack, Catherine",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,5,"Fitzpatrick-Meyers, Isabel",M,N/A,1,1
+IIT Scarlet Hawks,30172,2015,NA,NA,12,"Jones, Christian",D,N/A,16,15
+IIT Scarlet Hawks,30172,2015,NA,NA,18,"Kuitse, Mariah",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,1,"Ledbetter, Shacara",A,N/A,16,10
+IIT Scarlet Hawks,30172,2015,NA,NA,8,"Maciorowski, Sarah",M,N/A,14,14
+IIT Scarlet Hawks,30172,2015,NA,NA,5,"Meyers, Isabel",,N/A,15,15
+IIT Scarlet Hawks,30172,2015,NA,NA,4,"Miller, Alex",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,2,"Nguyen, Sany",,Fr,2,0
+IIT Scarlet Hawks,30172,2015,NA,NA,16,"Reineke, Cassandra",D,N/A,16,16
+IIT Scarlet Hawks,30172,2015,NA,NA,23,"Sanabria, Ashleyann",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,4,"Sanankoua, Nene",M,N/A,11,10
+IIT Scarlet Hawks,30172,2015,NA,NA,12,"Stromberg, Breanne",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,6,"Sutkus, Ginta",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,22,"Thompson, Taylor",,Fr,0,0
+IIT Scarlet Hawks,30172,2015,NA,NA,11,"Torres, Sarah",,Fr,16,16
+IIT Scarlet Hawks,30172,2015,NA,NA,21,"Villagrana, Briana",GK,N/A,16,16
+IIT Scarlet Hawks,30172,2015,NA,NA,17,"Woog, Emilie",,Fr,16,16
+IIT Scarlet Hawks,30172,2015,NA,NA,6,"Wu, Kelly",,N/A,2,0
+IIT Scarlet Hawks,30172,2014,NA,NA,11,"Arias, Isa",,N/A,0,0
+IIT Scarlet Hawks,30172,2014,NA,NA,14,"Avila, Abigail",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,3,"Badiola, Chelsea",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,21,"Bennett, Heather",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,20,"Carrerou, Florencia",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,1,"Cusack, Catherine",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,18,"Kuitse, Mariah",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,4,"Miller, Alex",,N/A,0,0
+IIT Scarlet Hawks,30172,2014,NA,NA,2,"Nguyen, Sany",,N/A,0,0
+IIT Scarlet Hawks,30172,2014,NA,NA,23,"Sanabria, Ashleyann",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,12,"Stromberg, Breanne",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,6,"Sutkus, Ginta",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,22,"Thompson, Taylor",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,9,"Torres, Sarah",,N/A,1,1
+IIT Scarlet Hawks,30172,2014,NA,NA,17,"Woog, Emilie",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,21,"Albanese, Amy",,Fr,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,4,"Anderson, Elizabeth",,Fr,1,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,13,"Bennett, Demi",D,N/A,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,1,"Chestnut, Briana",,Fr,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,8,"Christensen, Katie",,Fr,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,3,"Deeley, Kaitlin",,Fr,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,15,"Dewling, Madalyn",A,N/A,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,22,"Dixon, Jill",,Fr,1,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,12,"Edwards, Shannan",D,N/A,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,7,"Finnerty, Rose",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,35,"Harvey, Kelsey",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,23,"Houck, Elyse",,Fr,1,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,2,"Hrobuchak, Jen",,Fr,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,32,"Hull, Kristen",M,N/A,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,10,"Hutchison, Sarah",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,26,"Jarvis, Alyssa",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,12,"Jones, Emily",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,14,"King, Audi",,Fr,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,13,"Knutson, Emily",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,32,"Lundgren, Marissa",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,6,"Mahovlic, Kathryn",,N/A,1,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,20,"Massengale, Heather",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,11,"Matsuura, Aleisha",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,5,"Matthewman, Kelly",A,N/A,1,1
+Notre Dame (OH) Falcons,30126,2011,NA,NA,24,"Matusik, Amanda",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,9,"Meola, Mickayla",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,17,"Moore, Emily",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,6,"Morse, Jenn",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,19,"Myrup, Staci",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,55,"Phillips, Ally",G,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,7,"Rainieri, Marisa",,Fr,0,0
+Notre Dame (OH) Falcons,30126,2011,NA,NA,31,"Tarasco, Rachel",,Fr,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,21,"Albanese, Amy",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,4,"Anderson, Elizabeth",,N/A,1,0
+Notre Dame (OH) Falcons,30126,2010,NA,NA,1,"Chestnut, Briana",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,8,"Christensen, Katie",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,3,"Deeley, Kaitlin",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,22,"Dixon, Jill",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,23,"Houck, Elyse",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2010,NA,NA,2,"Hrobuchak, Jen",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,10,"Hutchison, Sarah",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,12,"Jones, Emily",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2010,NA,NA,14,"King, Audi",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,13,"Knutson, Emily",,N/A,1,0
+Notre Dame (OH) Falcons,30126,2010,NA,NA,32,"Lundgren, Marissa",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2010,NA,NA,11,"Matsuura, Aleisha",,N/A,1,0
+Notre Dame (OH) Falcons,30126,2010,NA,NA,9,"Meola, Mickayla",,N/A,0,0
+Notre Dame (OH) Falcons,30126,2010,NA,NA,17,"Moore, Emily",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,6,"Morse, Jenn",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,19,"Myrup, Staci",,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,55,"Phillips, Ally",g,N/A,1,1
+Notre Dame (OH) Falcons,30126,2010,NA,NA,7,"Rainieri, Marisa",,N/A,1,0
+Notre Dame (OH) Falcons,30126,2010,NA,NA,31,"Tarasco, Rachel",,N/A,0,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,24,"Adamskil, Laura",,N/A,1,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,21,"Cluck, Amanda",M,N/A,15,6
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,8,"Covel, Kelsey",A,Fr,16,11
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,9,"Dionne, Harmony",,N/A,7,3
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,22,"Dunn, Loren",,So,17,17
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,3,"Elwood, Alyssa",,N/A,9,3
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,6,"Fox, Ali",M,Fr,17,17
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,14,"Hart, Christina",D,N/A,17,17
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,4,"Higgins, Paige",,Fr,7,1
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,10,"Jackowski, Cassley",,N/A,17,16
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,13,"Jo Marr, Billie",,Fr,17,16
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,2,"Kendall, Alison",,So,17,17
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,16,"Link, Victoria",G,Fr,16,16
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,12,"Marks, Lauren",M,Fr,16,9
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,25,"Mcclure, Stephanie",GK,So,0,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,18,"Ondus, Skylar",D,N/A,12,5
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,5,"Patrone, Amanda",,So,0,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,18,"Phillips, Alex",,So,0,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,23,"Sell, Marissa",,So,9,6
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,20,"Silwoski, Lillian",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,17,"Sinicropi, Alicia",,N/A,13,8
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,15,"Smith, Meredith",,So,16,16
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,11,"Tucker, Savannah",,N/A,17,16
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,4,"Adams, Caitlin",A,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,21,"Callahan, Brittany",,N/A,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,16,"Catteau, Theresa",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,8,"Covel, Kelsey",A,N/A,16,16
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,22,"Dunn, Loren",,Fr,16,16
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,10,"Eschner, Tori",,N/A,1,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,13,"Farnsworth, Kara",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,7,"Fields, Fallon",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,6,"Fox, Ali",M,N/A,16,16
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,4,"Higgins, Paige",,N/A,7,3
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,13,"Jo Marr, Billie",D,N/A,16,15
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,2,"Kendall, Alison",,Fr,14,12
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,24,"Kendall, Lindsay",,Fr,16,16
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,16,"Link, Victoria",G,N/A,15,10
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,12,"Marks, Lauren",M,N/A,14,12
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,25,"Mcclure, Stephanie",GK,Fr,14,8
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,3,"Mueller, Lauren",,Fr,16,16
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,5,"Patrone, Amanda",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,18,"Phillips, Alex",,Fr,12,11
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,8,"Prestigiacomo, Amanda",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,17,"Sell, Vanessa",,Fr,5,4
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,23,"Sell, Marissa",,Fr,10,8
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,20,"Silwoski, Lillian",,N/A,15,14
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,15,"Smith, Meredith",,Fr,15,15
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,6,"West, Hailey",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,4,"Adams, Caitlin",A,N/A,6,6
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,16,"Catteau, Theresa",,N/A,9,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,13,"Farnsworth, Kara",,N/A,8,8
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,7,"Fields, Fallon",,N/A,8,2
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,2,"Kendall, Alison",,N/A,9,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,24,"Kendall, Lindsay",,N/A,9,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,25,"Mcclure, Stephanie",GK,N/A,9,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,3,"Mueller, Lauren",,N/A,9,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,5,"Patrone, Amanda",,N/A,2,0
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,18,"Phillips, Alex",,N/A,8,8
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,8,"Prestigiacomo, Amanda",,N/A,9,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,17,"Sell, Vanessa",,N/A,9,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,23,"Sell, Marissa",,N/A,6,5
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,15,"Smith, Meredith",,N/A,9,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,6,"West, Hailey",,N/A,9,7
+Shorter Lady Hawks,30151,2014,NA,NA,16,"Abbey, Alex",,N/A,12,1
+Shorter Lady Hawks,30151,2014,NA,NA,35,"Allen, Patrice",,So,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,21,"Armstrong, Avery",,So,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,2,"Bell, Kayla",,So,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,14,"Beverly, Shelby",,Fr,13,11
+Shorter Lady Hawks,30151,2014,NA,NA,19,"Cave, Rita",,So,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,17,"Chambers, Kari",,Fr,13,13
+Shorter Lady Hawks,30151,2014,NA,NA,27,"Curlee, Sarah",,Fr,3,0
+Shorter Lady Hawks,30151,2014,NA,NA,14,"Dixe, Whitney",,So,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,3,"Fevella, Bethany",,So,12,8
+Shorter Lady Hawks,30151,2014,NA,NA,34,"Fleeger, Alex",,N/A,4,0
+Shorter Lady Hawks,30151,2014,NA,NA,27,"Forkner, Blake",,So,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,2,"Fusan, Emily",,Fr,12,3
+Shorter Lady Hawks,30151,2014,NA,NA,11,"Hambrick, Katie",,Fr,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,12,"Hicks, Amber",,So,13,13
+Shorter Lady Hawks,30151,2014,NA,NA,13,"Kube, Nicole",,Fr,2,0
+Shorter Lady Hawks,30151,2014,NA,NA,20,"Luna, Karen",,Fr,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,11,"Marshall, Crystal",,N/A,13,3
+Shorter Lady Hawks,30151,2014,NA,NA,23,"McNEELY, Lindsey",,So,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,1,"Mitchner, Catherine",,N/A,3,0
+Shorter Lady Hawks,30151,2014,NA,NA,4,"Moody, Taylor",,So,13,13
+Shorter Lady Hawks,30151,2014,NA,NA,24,"Nuqui, Ashley",,Fr,12,2
+Shorter Lady Hawks,30151,2014,NA,NA,10,"Ott, Katie",,So,12,12
+Shorter Lady Hawks,30151,2014,NA,NA,20,"Pacino, Sophia",,So,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,15,"Persichetti, Lauren",,So,13,13
+Shorter Lady Hawks,30151,2014,NA,NA,8,"Pranciliauskaite, Ai",,So,10,9
+Shorter Lady Hawks,30151,2014,NA,NA,33,"Rojas, Bianca",,So,12,11
+Shorter Lady Hawks,30151,2014,NA,NA,19,"Rutherford, Clarissa",,N/A,7,0
+Shorter Lady Hawks,30151,2014,NA,NA,9,"Skinner, Rachel",,So,12,12
+Shorter Lady Hawks,30151,2014,NA,NA,25,"Smith, Erica",,Fr,0,0
+Shorter Lady Hawks,30151,2014,NA,NA,7,"Spero, Devin",,So,11,1
+Shorter Lady Hawks,30151,2014,NA,NA,23,"Stoltz, Sammy",,Fr,12,5
+Shorter Lady Hawks,30151,2014,NA,NA,26,"Summers, Courtney",,N/A,3,0
+Shorter Lady Hawks,30151,2014,NA,NA,5,"Watson-Isom, Desiree",,So,13,10
+Shorter Lady Hawks,30151,2014,NA,NA,18,"Wiggins, Mia",,So,13,13
+Shorter Lady Hawks,30151,2014,NA,NA,3,"Wynn, Erin",,Fr,10,1
+Shorter Lady Hawks,30151,2013,NA,NA,35,"Allen, Patrice",,Fr,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,21,"Armstrong, Avery",,Fr,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,2,"Bell, Kayla",,Fr,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,14,"Beverly, Shelby",,N/A,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,19,"Cave, Rita",,Fr,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,17,"Chambers, Kari",,N/A,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,27,"Curlee, Sarah",,N/A,1,0
+Shorter Lady Hawks,30151,2013,NA,NA,14,"Dixe, Whitney",,Fr,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,3,"Fevella, Bethany",,Fr,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,27,"Forkner, Blake",,Fr,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,2,"Fusan, Emily",,N/A,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,11,"Hambrick, Katie",,N/A,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,12,"Hicks, Amber",,Fr,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,13,"Kube, Nicole",,N/A,1,0
+Shorter Lady Hawks,30151,2013,NA,NA,20,"Luna, Karen",,N/A,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,23,"McNEELY, Lindsey",,Fr,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,4,"Moody, Taylor",,Fr,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,24,"Nuqui, Ashley",,N/A,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,10,"Ott, Katie",,Fr,2,1
+Shorter Lady Hawks,30151,2013,NA,NA,20,"Pacino, Sophia",,Fr,0,0
+Shorter Lady Hawks,30151,2013,NA,NA,15,"Persichetti, Lauren",,Fr,2,0
+Shorter Lady Hawks,30151,2013,NA,NA,8,"Pranciliauskaite, Ai",,Fr,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,33,"Rojas, Bianca",,Fr,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,9,"Skinner, Rachel",,Fr,2,1
+Shorter Lady Hawks,30151,2013,NA,NA,25,"Smith, Erica",,N/A,1,0
+Shorter Lady Hawks,30151,2013,NA,NA,7,"Spero, Devin",,Fr,2,0
+Shorter Lady Hawks,30151,2013,NA,NA,23,"Stoltz, Sammy",,N/A,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,5,"Watson-Isom, Desiree",,Fr,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,18,"Wiggins, Mia",,Fr,2,2
+Shorter Lady Hawks,30151,2013,NA,NA,3,"Wynn, Erin",,N/A,0,0
+Shorter Lady Hawks,30151,2012,NA,NA,35,"Allen, Patrice",,N/A,2,0
+Shorter Lady Hawks,30151,2012,NA,NA,21,"Armstrong, Avery",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,2,"Bell, Kayla",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,19,"Cave, Rita",,N/A,3,0
+Shorter Lady Hawks,30151,2012,NA,NA,14,"Dixe, Whitney",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,3,"Fevella, Bethany",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,27,"Forkner, Blake",,N/A,1,1
+Shorter Lady Hawks,30151,2012,NA,NA,12,"Hicks, Amber",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,23,"McNEELY, Lindsey",,N/A,2,0
+Shorter Lady Hawks,30151,2012,NA,NA,4,"Moody, Taylor",,N/A,1,1
+Shorter Lady Hawks,30151,2012,NA,NA,10,"Ott, Katie",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,20,"Pacino, Sophia",,N/A,1,1
+Shorter Lady Hawks,30151,2012,NA,NA,15,"Persichetti, Lauren",,N/A,1,0
+Shorter Lady Hawks,30151,2012,NA,NA,8,"Pranciliauskaite, Ai",,N/A,3,2
+Shorter Lady Hawks,30151,2012,NA,NA,33,"Rojas, Bianca",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,9,"Skinner, Rachel",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,7,"Spero, Devin",,N/A,2,1
+Shorter Lady Hawks,30151,2012,NA,NA,5,"Watson-Isom, Desiree",,N/A,3,3
+Shorter Lady Hawks,30151,2012,NA,NA,18,"Wiggins, Mia",,N/A,3,3
+Southern Va. Knights,30164,2016,NA,NA,9,"Abdullahi, Kafia",,Jr,9,2
+Southern Va. Knights,30164,2016,NA,NA,15,"Barfus, Megan",,So,16,15
+Southern Va. Knights,30164,2016,NA,NA,11,"Bishop, Avery",,N/A,8,4
+Southern Va. Knights,30164,2016,NA,NA,17,"Bonney, Elizabeth",,Jr,16,15
+Southern Va. Knights,30164,2016,NA,NA,10,"Bradshaw, Zoe",,Sr,16,13
+Southern Va. Knights,30164,2016,NA,NA,7,"Houghtaling, Claire",,Jr,16,14
+Southern Va. Knights,30164,2016,NA,NA,6,"Knowles, Majkaleah",,Fr,15,13
+Southern Va. Knights,30164,2016,NA,NA,14,"Lamb, Emily",,Sr,16,15
+Southern Va. Knights,30164,2016,NA,NA,3,"Larson, Kristina",,Fr,2,0
+Southern Va. Knights,30164,2016,NA,NA,13,"Lessing, Ashley",,Jr,15,14
+Southern Va. Knights,30164,2016,NA,NA,8,"Lewis, Chloe",,N/A,14,11
+Southern Va. Knights,30164,2016,NA,NA,24,"Lytle, Melanie",,Fr,10,7
+Southern Va. Knights,30164,2016,NA,NA,16,"Martin, Andi",,So,0,0
+Southern Va. Knights,30164,2016,NA,NA,19,"McCafferty, Amanda",,Sr,10,3
+Southern Va. Knights,30164,2016,NA,NA,18,"Miller, Rachel",,Fr,15,11
+Southern Va. Knights,30164,2016,NA,NA,5,"Park, Faythe",,Fr,12,11
+Southern Va. Knights,30164,2016,NA,NA,26,"Smith, Lia",,Fr,15,15
+Southern Va. Knights,30164,2016,NA,NA,2,"Whitworth, Rainey",,Sr,16,15
+Southern Va. Knights,30164,2015,NA,NA,15,"Barfus, Megan",,Fr,4,3
+Southern Va. Knights,30164,2015,NA,NA,17,"Bonney, Elizabeth",,So,13,13
+Southern Va. Knights,30164,2015,NA,NA,10,"Bradshaw, Zoe",,Jr,15,12
+Southern Va. Knights,30164,2015,NA,NA,8,"Bybee, Danielle",,Fr,15,12
+Southern Va. Knights,30164,2015,NA,NA,1,"Cadiente, Maura",,Sr,14,11
+Southern Va. Knights,30164,2015,NA,NA,13,"Gambee, Jamilla",,N/A,2,0
+Southern Va. Knights,30164,2015,NA,NA,14,"Golder, Ericha",,Fr,15,15
+Southern Va. Knights,30164,2015,NA,NA,11,"Griffiths, Corrine",,N/A,8,4
+Southern Va. Knights,30164,2015,NA,NA,9,"Higginbotham, Maddie",,Fr,3,0
+Southern Va. Knights,30164,2015,NA,NA,7,"Houghtaling, Claire",,So,15,15
+Southern Va. Knights,30164,2015,NA,NA,11,"Hyer, Samantha",,Fr,14,13
+Southern Va. Knights,30164,2015,NA,NA,3,"Jones, Samantha",,Sr,15,15
+Southern Va. Knights,30164,2015,NA,NA,18,"Kessler, Kristen",,So,0,0
+Southern Va. Knights,30164,2015,NA,NA,13,"Lessing, Ashley",,So,1,0
+Southern Va. Knights,30164,2015,NA,NA,16,"Martin, Andi",,Fr,12,9
+Southern Va. Knights,30164,2015,NA,NA,19,"McCafferty, Amanda",,Jr,4,0
+Southern Va. Knights,30164,2015,NA,NA,29,"Miller, Cammi",GK,N/A,15,15
+Southern Va. Knights,30164,2015,NA,NA,5,"Sorensen, Darien",,Jr,15,15
+Southern Va. Knights,30164,2015,NA,NA,23,"Vanderwende, Sarah",,Fr,15,13
+Southern Va. Knights,30164,2015,NA,NA,4,"White, Adina",,N/A,2,0
+Southern Va. Knights,30164,2015,NA,NA,2,"Whitworth, Rainey",,Jr,15,15
+Southern Va. Knights,30164,2014,NA,NA,34,"Ahlgren, Ashley",,Fr,12,11
+Southern Va. Knights,30164,2014,NA,NA,23,"Arrieta, Partricia",,Fr,6,1
+Southern Va. Knights,30164,2014,NA,NA,9,"Baxter, Abigail",,Sr,12,12
+Southern Va. Knights,30164,2014,NA,NA,17,"Bonney, Elizabeth",,Fr,12,11
+Southern Va. Knights,30164,2014,NA,NA,10,"Bradshaw, Zoe",,So,12,12
+Southern Va. Knights,30164,2014,NA,NA,2,"Epps, Lillian",,Sr,12,12
+Southern Va. Knights,30164,2014,NA,NA,15,"Holder, Shanteya",,Fr,9,5
+Southern Va. Knights,30164,2014,NA,NA,7,"Houghtaling, Claire",,Fr,9,8
+Southern Va. Knights,30164,2014,NA,NA,6,"Jones, Samantha",,N/A,5,2
+Southern Va. Knights,30164,2014,NA,NA,26,"Kessler, Kristen",,Fr,12,12
+Southern Va. Knights,30164,2014,NA,NA,53,"Lowry, Skye",,Fr,10,5
+Southern Va. Knights,30164,2014,NA,NA,28,"Lyman, Kathryn",,Fr,12,12
+Southern Va. Knights,30164,2014,NA,NA,19,"McCafferty, Amanda",,So,1,0
+Southern Va. Knights,30164,2014,NA,NA,1,"Schroeder, Caroline",,Sr,12,12
+Southern Va. Knights,30164,2014,NA,NA,8,"Smith, Merissa",,Fr,6,5
+Southern Va. Knights,30164,2014,NA,NA,3,"Sorensen, Darien",,So,12,12
+Southern Va. Knights,30164,2014,NA,NA,13,"Tonini, Kaitlin",,Jr,3,0
+Southern Va. Knights,30164,2014,NA,NA,4,"Weaver, Jessica",,Jr,1,0
+Southern Va. Knights,30164,2014,NA,NA,5,"Whitworth, Rainey",,So,12,12
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,25,"Altschuler, Alyssa",G,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,1,"Amador, Ashley",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,10,"Ardoin, Lora",,Fr,15,15
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,15,"Bennett, Trishanna",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,12,"Bessette, Brittani",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,12,"Branch, Kiely",,N/A,8,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,4,"Carroll, Robyn",M,So,15,15
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,7,"Christensen, Keri",,So,9,3
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,8,"Christiansen, Hannah",,Fr,13,13
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,32,"Cota, Holli-Jo",GK,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,11,"Darling, Caty",D,Jr,15,15
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,15,"Davy, Diamantie",M,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,19,"Dempsey, Keri",,So,15,14
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,5,"DiBenenedet, Brittany",M,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,14,"DiNardo, Rebecca",,N/A,10,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,9,"Diabo, Abbey",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,18,"Drake, Courtney",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,28,"Durant, Gabrielle",D,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,2,"Fajardo, Yaslin",D,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,10,"Ghize, Natasha",A,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,20,"Gilbert, Kayla",D,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,21,"Goolden, Tressa",,Jr,15,14
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,7,"Guerra, Roxana",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,16,"Hart, Paige",A,N/A,15,11
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,15,"Holmes, Nikki",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,16,"Hutcheson, Devyn",M,Jr,15,7
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,32,"Kieffer, Becca",GK,Fr,15,15
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,1,"Kinder, Sydney",,N/A,11,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,3,"Knight, Brooke",A,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,11,"LaVoie, Caitlin",A,So,13,2
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,6,"Lennox, Mackenzie",M,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,13,"Mitchell, Kailey",,N/A,10,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,4,"Moulier, Ashley",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,24,"Murray, Kelsey",D,So,14,13
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,17,"Mydosh, Megan",M,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,15,"Nutter, Katelynn",A,N/A,15,15
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,6,"Percy, Joelle",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,23,"Poupore, Megan",,So,14,12
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,24,"Pratt, Laura",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,16,"Rice, Keeley",A,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,9,"Skelly, Kirsten",M,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,20,"Stone, Sarah",,Fr,6,1
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,19,"Thompson, Chantel",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,23,"Vibbard, Kristi",D,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,20,"Whalen, Cortney",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,7,"Woods, Amanda",D,N/A,15,15
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,25,"Altschuler, Alyssa",G,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,1,"Amador, Ashley",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,10,"Ardoin, Lora",,N/A,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,15,"Bennett, Trishanna",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,12,"Bessette, Brittani",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,4,"Carroll, Robyn",M,Fr,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,7,"Christensen, Keri",,Fr,4,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,8,"Christiansen, Hannah",,N/A,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,32,"Cota, Holli-Jo",GK,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,11,"Darling, Caty",D,So,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,15,"Davy, Diamantie",M,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,19,"Dempsey, Keri",,Fr,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,5,"DiBenenedet, Brittany",M,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,9,"Diabo, Abbey",,N/A,3,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,18,"Drake, Courtney",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,28,"Durant, Gabrielle",D,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,2,"Fajardo, Yaslin",D,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,10,"Ghize, Natasha",A,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,20,"Gilbert, Kayla",D,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,21,"Goolden, Tressa",,So,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,7,"Guerra, Roxana",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,15,"Holmes, Nikki",,N/A,5,4
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,16,"Hutcheson, Devyn",M,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,32,"Kieffer, Becca",GK,N/A,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,3,"Knight, Brooke",A,So,2,2
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,11,"LaVoie, Caitlin",A,Fr,5,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,6,"Lennox, Mackenzie",M,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,4,"Moulier, Ashley",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,24,"Murray, Kelsey",D,Fr,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,17,"Mydosh, Megan",M,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,6,"Percy, Joelle",,N/A,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,23,"Poupore, Megan",,Fr,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,24,"Pratt, Laura",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,16,"Rice, Keeley",A,Fr,6,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,9,"Skelly, Kirsten",M,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,20,"Stone, Sarah",,N/A,6,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,19,"Thompson, Chantel",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,23,"Vibbard, Kristi",D,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,20,"Whalen, Cortney",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,25,"Altschuler, Alyssa",G,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,1,"Amador, Ashley",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,15,"Bennett, Trishanna",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,12,"Bessette, Brittani",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,4,"Carroll, Robyn",M,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,7,"Christensen, Keri",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,32,"Cota, Holli-Jo",GK,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,11,"Darling, Caty",D,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,15,"Davy, Diamantie",M,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,19,"Dempsey, Keri",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,5,"DiBenenedet, Brittany",M,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,18,"Drake, Courtney",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,28,"Durant, Gabrielle",D,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,2,"Fajardo, Yaslin",D,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,10,"Ghize, Natasha",A,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,20,"Gilbert, Kayla",D,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,21,"Goolden, Tressa",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,7,"Guerra, Roxana",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,16,"Hutcheson, Devyn",M,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,3,"Knight, Brooke",A,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,11,"LaVoie, Caitlin",A,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,6,"Lennox, Mackenzie",M,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,4,"Moulier, Ashley",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,24,"Murray, Kelsey",D,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,17,"Mydosh, Megan",M,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,23,"Poupore, Megan",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,24,"Pratt, Laura",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,16,"Rice, Keeley",A,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,9,"Skelly, Kirsten",M,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,19,"Thompson, Chantel",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,23,"Vibbard, Kristi",D,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,20,"Whalen, Cortney",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,1,"Amador, Ashley",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,12,"Bessette, Brittani",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,32,"Cota, Holli-Jo",GK,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,11,"Darling, Caty",D,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,15,"Davy, Diamantie",M,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,5,"DiBenenedet, Brittany",M,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,18,"Drake, Courtney",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,2,"Fajardo, Yaslin",D,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,10,"Ghize, Natasha",A,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,21,"Goolden, Tressa",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,7,"Guerra, Roxana",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,16,"Hutcheson, Devyn",M,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,3,"Knight, Brooke",A,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,6,"Lennox, Mackenzie",M,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,4,"Moulier, Ashley",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,17,"Mydosh, Megan",M,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,24,"Pratt, Laura",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,9,"Skelly, Kirsten",M,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,19,"Thompson, Chantel",,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,23,"Vibbard, Kristi",D,N/A,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,20,"Whalen, Cortney",,N/A,0,0
+Young Harris Mountain Lions,30154,2014,NA,NA,20,"DuBose, Jessica",,Fr,17,11
+Young Harris Mountain Lions,30154,2014,NA,NA,8,"Farmer, Breanna",,So,16,15
+Young Harris Mountain Lions,30154,2014,NA,NA,11,"Franklin, Ivey",,So,16,16
+Young Harris Mountain Lions,30154,2014,NA,NA,28,"Freitas, Jordana",,So,16,16
+Young Harris Mountain Lions,30154,2014,NA,NA,14,"Green, Caitlyn",,So,8,2
+Young Harris Mountain Lions,30154,2014,NA,NA,9,"Kernohan, Jaclyn",,So,17,17
+Young Harris Mountain Lions,30154,2014,NA,NA,10,"King, Peyton",,Fr,17,17
+Young Harris Mountain Lions,30154,2014,NA,NA,5,"Lincoln, Taylor",,So,0,0
+Young Harris Mountain Lions,30154,2014,NA,NA,24,"Lummus, Anna",,Fr,17,17
+Young Harris Mountain Lions,30154,2014,NA,NA,4,"Martelli, Marisa",,Fr,17,17
+Young Harris Mountain Lions,30154,2014,NA,NA,1,"Moore, Carter",,So,9,1
+Young Harris Mountain Lions,30154,2014,NA,NA,29,"Nudelman, Sarah",,Fr,17,16
+Young Harris Mountain Lions,30154,2014,NA,NA,3,"Pardus, Caitlin",,So,16,16
+Young Harris Mountain Lions,30154,2014,NA,NA,7,"Roach, Kaylynn",,Fr,14,13
+Young Harris Mountain Lions,30154,2014,NA,NA,17,"Smith, Jade",,So,17,17
+Young Harris Mountain Lions,30154,2014,NA,NA,15,"Vacarella, Nicole",,So,0,0
+Young Harris Mountain Lions,30154,2014,NA,NA,18,"Wright, Stephanie",,So,16,13
+Young Harris Mountain Lions,30154,2013,NA,NA,8,"Farmer, Breanna",,Fr,16,13
+Young Harris Mountain Lions,30154,2013,NA,NA,11,"Franklin, Ivey",,Fr,16,16
+Young Harris Mountain Lions,30154,2013,NA,NA,28,"Freitas, Jordana",,Fr,17,17
+Young Harris Mountain Lions,30154,2013,NA,NA,14,"Green, Caitlyn",,Fr,9,3
+Young Harris Mountain Lions,30154,2013,NA,NA,9,"Kernohan, Jaclyn",,Fr,17,17
+Young Harris Mountain Lions,30154,2013,NA,NA,10,"Lawson, Emily",,Fr,0,0
+Young Harris Mountain Lions,30154,2013,NA,NA,5,"Lincoln, Taylor",,Fr,15,15
+Young Harris Mountain Lions,30154,2013,NA,NA,12,"McDevitt, Sarah",,Fr,12,12
+Young Harris Mountain Lions,30154,2013,NA,NA,1,"Moore, Carter",,Fr,17,17
+Young Harris Mountain Lions,30154,2013,NA,NA,3,"Pardus, Caitlin",,Fr,17,17
+Young Harris Mountain Lions,30154,2013,NA,NA,17,"Smith, Jade",,Fr,17,17
+Young Harris Mountain Lions,30154,2013,NA,NA,21,"Thomason, Amanda",,Fr,17,17
+Young Harris Mountain Lions,30154,2013,NA,NA,15,"Vacarella, Nicole",,Fr,10,9
+Young Harris Mountain Lions,30154,2013,NA,NA,4,"Webb, Nicole",,Fr,17,17
+Young Harris Mountain Lions,30154,2013,NA,NA,18,"Wright, Stephanie",,Fr,17,17

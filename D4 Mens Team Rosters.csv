@@ -1,0 +1,739 @@
+team_name,team_id,season,conference,conference_id,jersey,player,pos,yr,g,gs
+Brevard Tornados,30094,2020,NA,NA,10,"Demcovich, Chris",D,Sr,0,0
+Brevard Tornados,30094,2020,NA,NA,22,"Duffie, Sam",ATT,Jr,0,0
+Brevard Tornados,30094,2020,NA,NA,27,"Ellen, Nate",FO,So,0,0
+Brevard Tornados,30094,2020,NA,NA,1,"Francois, Evan",,Jr,0,0
+Brevard Tornados,30094,2020,NA,NA,97,"Kokal, Robert",LSM,Jr,0,0
+Brevard Tornados,30094,2020,NA,NA,35,"McCarragher, Devin",GK,So,0,0
+Brevard Tornados,30094,2020,NA,NA,23,"Pratt, Sean",,Sr,0,0
+Brevard Tornados,30094,2020,NA,NA,9,"Ramos, Daniel",,Jr,0,0
+Brevard Tornados,30094,2020,NA,NA,4,"Trejo, Steve",M,So,0,0
+Brevard Tornados,30094,2020,NA,NA,6,"Vacchiano, Joel",,Jr,0,0
+Bryn Athyn Lions,30188,2014,NA,NA,24,"Adams, Ben",D,N/A,8,7
+Bryn Athyn Lions,30188,2014,NA,NA,12,"Altman, Steve",,N/A,7,0
+Bryn Athyn Lions,30188,2014,NA,NA,30,"Bartalini, Matt",M,N/A,2,2
+Bryn Athyn Lions,30188,2014,NA,NA,13,"Bartalini, Matthew",D,N/A,8,6
+Bryn Athyn Lions,30188,2014,NA,NA,25,"Cranch, Eric",M,N/A,9,4
+Bryn Athyn Lions,30188,2014,NA,NA,21,"DalCortivo, David",,N/A,3,0
+Bryn Athyn Lions,30188,2014,NA,NA,1,"Donnelly, Michael",,N/A,9,4
+Bryn Athyn Lions,30188,2014,NA,NA,10,"Fetko, Nick",M,N/A,9,9
+Bryn Athyn Lions,30188,2014,NA,NA,9,"Feyler, Sean",A,N/A,6,6
+Bryn Athyn Lions,30188,2014,NA,NA,2,"Frazier, Luke",A,N/A,9,9
+Bryn Athyn Lions,30188,2014,NA,NA,3,"Johnson, Terrence",,N/A,8,0
+Bryn Athyn Lions,30188,2014,NA,NA,4,"Lopez, Nelson",,N/A,7,3
+Bryn Athyn Lions,30188,2014,NA,NA,7,"McCurdy, Travis",M,N/A,9,6
+Bryn Athyn Lions,30188,2014,NA,NA,11,"Moran, Robert",G,N/A,9,9
+Bryn Athyn Lions,30188,2014,NA,NA,18,"Mulhern, DJ",,N/A,3,0
+Bryn Athyn Lions,30188,2014,NA,NA,14,"Ragan, Kieran",A,N/A,8,6
+Bryn Athyn Lions,30188,2014,NA,NA,15,"Rogers, Colin",,N/A,7,4
+Bryn Athyn Lions,30188,2014,NA,NA,17,"Roscioli, Dylan",D,N/A,9,9
+Bryn Athyn Lions,30188,2014,NA,NA,23,"Silvers, Ben",,N/A,6,0
+Bryn Athyn Lions,30188,2014,NA,NA,8,"Strange, Mark",,N/A,8,3
+Bryn Athyn Lions,30188,2014,NA,NA,19,"Triesler, Daniel",,N/A,5,0
+Bryn Athyn Lions,30188,2014,NA,NA,16,"Weissler, Ray",,N/A,0,0
+Bryn Athyn Lions,30188,2014,NA,NA,6,"Witmyer, Scott",,N/A,5,3
+Dean Bulldogs,30219,2017,NA,NA,6,"Adams, Derick",,N/A,11,0
+Dean Bulldogs,30219,2017,NA,NA,37,"Allard, Anthony",,N/A,3,0
+Dean Bulldogs,30219,2017,NA,NA,31,"Anderson, Jake",G,N/A,12,12
+Dean Bulldogs,30219,2017,NA,NA,8,"Auger, Justin",,N/A,11,0
+Dean Bulldogs,30219,2017,NA,NA,2,"Bennett, Justin",,N/A,5,0
+Dean Bulldogs,30219,2017,NA,NA,14,"Burcoff, Nathaniel",,N/A,7,0
+Dean Bulldogs,30219,2017,NA,NA,16,"Carr, Aidan",D,N/A,12,12
+Dean Bulldogs,30219,2017,NA,NA,15,"Cirillo, Anthony",,N/A,9,0
+Dean Bulldogs,30219,2017,NA,NA,21,"Cugini, Gianni",,N/A,3,0
+Dean Bulldogs,30219,2017,NA,NA,12,"Demoranville, Ethan",,N/A,6,0
+Dean Bulldogs,30219,2017,NA,NA,20,"Fredericks, Brody",,N/A,11,6
+Dean Bulldogs,30219,2017,NA,NA,22,"Gannon, Sean",,N/A,1,0
+Dean Bulldogs,30219,2017,NA,NA,40,"Gurnari, Francesco",,N/A,3,0
+Dean Bulldogs,30219,2017,NA,NA,34,"Hinrichs, Colin",A,N/A,12,11
+Dean Bulldogs,30219,2017,NA,NA,7,"Johnston, Rob",,N/A,10,1
+Dean Bulldogs,30219,2017,NA,NA,5,"Jordan, Juniel",,N/A,11,0
+Dean Bulldogs,30219,2017,NA,NA,1,"Kydes, Andrew",M,N/A,12,12
+Dean Bulldogs,30219,2017,NA,NA,18,"Lovely, Jimmy",M,N/A,12,12
+Dean Bulldogs,30219,2017,NA,NA,29,"Luiz, Khyrstyeon",,N/A,2,0
+Dean Bulldogs,30219,2017,NA,NA,35,"Olsen, Madison",,N/A,4,0
+Dean Bulldogs,30219,2017,NA,NA,25,"Orozco, Timothy",,N/A,10,2
+Dean Bulldogs,30219,2017,NA,NA,24,"Patrizzo, Michael",,N/A,9,0
+Dean Bulldogs,30219,2017,NA,NA,23,"Pena, Michael",,N/A,2,0
+Dean Bulldogs,30219,2017,NA,NA,10,"Poignant, Dillon",,N/A,3,0
+Dean Bulldogs,30219,2017,NA,NA,19,"Pucci, Kyle",,N/A,12,0
+Dean Bulldogs,30219,2017,NA,NA,26,"Reel, Westley",D,N/A,12,12
+Dean Bulldogs,30219,2017,NA,NA,4,"Richardson, Marcus",A,N/A,12,7
+Dean Bulldogs,30219,2017,NA,NA,17,"Sikes, Ben",,N/A,12,0
+Dean Bulldogs,30219,2017,NA,NA,27,"Townsend, Luke",D,N/A,11,10
+Dean Bulldogs,30219,2017,NA,NA,9,"Trasacco, Anthony",A,N/A,11,11
+Dean Bulldogs,30219,2017,NA,NA,30,"Walnut, Christopher",,N/A,6,0
+Dean Bulldogs,30219,2017,NA,NA,13,"Woolard, Grant",D,N/A,12,12
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Arango, Josh",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Behan, Rob",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Blanchard, Colin",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Boucher, Stephen",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Breen, Henry",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Brown, Ryan",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Chenail, Keenan",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Collins, Brad",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Corriveau, Jon",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Coyle, Teague",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Ercole, Max",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Henault, Christian",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Hernandez, Alex",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Horan, Ed",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"J. Danforth, P",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Mansour, Chris",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Mccarthy, Patrick",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Noble, Caleb",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Norman-Lacroix, Luke",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Rivard, Nathan",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Sousa, Justin",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Stoddard-Imari, Kali",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Stout, Taylor",,Fr,0,0
+NVU-Lyndon Hornets,30065,2010,North Atlantic,30026,,"Velez, Rick",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,12,"Benedict, Matt",,Fr,15,15
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,11,"Bermingham, Brady",,Fr,9,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,7,"Booker, London",,So,13,1
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,92,"Cianfarano, Dom",,So,15,15
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,6,"Cole, Shane",,So,5,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,20,"Cole, Andy",,Sr,12,1
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,22,"Crusha, Jordan",,Fr,12,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,41,"Davidson, Tim",,Sr,11,9
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,14,"DeClercq, Felix",,Jr,11,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,25,"Godin, Jarrett",,Fr,14,7
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,3,"Hamilton, Matt",,Sr,13,13
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,17,"Hardy, Chad",,Jr,5,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,2,"Hubert, Mike",,Fr,15,15
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,18,"Izyk, Chase",,Fr,15,1
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,99,"Keefer, Steve",,N/A,7,2
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,8,"Lewis, Cody",,So,11,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,19,"Marsh, Tyson",,Fr,7,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,99,"Marsh, Steve",,N/A,0,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,16,"Miller, Seth",,So,15,15
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,44,"Mirt, Jeff",,Sr,15,12
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,5,"Nucci Lauria, Anthony",,Jr,13,12
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,21,"Petit, Craig",,Jr,14,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,0,"Rhodes, Darnell",,Fr,7,1
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,23,"Smart, Logan",,So,15,15
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,9,"Tirabassi, Andrew",,So,1,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,15,"Wagner, Brandon",,Jr,5,0
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,34,"Williams, Alex",,Jr,15,14
+Roberts Wesleyan Redhawks,30150,2014,NA,NA,1,"Wolak, Nick",,Jr,15,1
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,7,"Booker, London",,N/A,17,1
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,29,"Capps, Brett",A,Fr,17,14
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,10,"Cianfarano, Dom",A,N/A,17,16
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,20,"Cole, Andy",,Fr,14,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,6,"Cole, Shane",,N/A,10,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,22,"Cone, Sean",M,Fr,17,3
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,19,"Cornarie, Colin",A,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,41,"Davidson, Tim",,Fr,17,17
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,14,"DeClercq, Felix",,Fr,16,1
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,25,"Delmege, Andy",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,9,"Falazrano, Joe",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,4,"French, Jacob",,N/A,14,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,2,"Gray, Alex",,N/A,17,10
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,3,"Hamilton, Matt",GK,Fr,16,15
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,17,"Hardy, Chad",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,32,"Keehn, Keith",,N/A,9,2
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,0,"Kleehammer, Tyler",M,N/A,17,17
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,8,"Lewis, Cody",MF,N/A,15,1
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,18,"Macks, Rj",M,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,31,"Michael, David",,Fr,17,17
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,16,"Miller, Seth",M,N/A,17,10
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,44,"Mirt, Jeff",D,Fr,6,1
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,77,"Nash, Ian",D,N/A,15,13
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,5,"Nucci, Anthony",M,Fr,1,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,5,"Nucci Lauria, Anthony",M,N/A,16,15
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,21,"Petit, Craig",M,Fr,16,9
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,23,"Smart, Logan",,N/A,14,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,99,"Smith, David",M,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,9,"Tirabassi, Andrew",,N/A,11,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,40,"Troitter, Nick",,Fr,0,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,15,"Wagner, Brandon",,Fr,11,0
+Roberts Wesleyan Redhawks,30150,2013,NA,NA,34,"Williams, Alex",D,Fr,8,8
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,29,"Capps, Brett",A,N/A,9,8
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,20,"Cole, Andy",,N/A,3,0
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,22,"Cone, Sean",M,N/A,10,10
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,19,"Cornarie, Colin",A,N/A,8,8
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,41,"Davidson, Tim",,N/A,1,0
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,16,"DeClercq, Felix",,N/A,10,2
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,25,"Delmege, Andy",,N/A,10,2
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,9,"Falazrano, Joe",,N/A,8,0
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,3,"Hamilton, Matt",GK,N/A,10,10
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,17,"Hardy, Chad",,N/A,7,0
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,18,"Macks, Rj",M,N/A,10,8
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,31,"Michael, David",,N/A,10,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,44,"Mirt, Jeff",D,N/A,10,10
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,5,"Nucci, Anthony",M,N/A,10,10
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,21,"Petit, Craig",M,N/A,10,9
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,99,"Smith, David",M,N/A,10,10
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,40,"Troitter, Nick",,N/A,6,0
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,15,"Wagner, Brandon",,N/A,10,0
+Roberts Wesleyan Redhawks,30150,2012,NA,NA,34,"Williams, Alex",D,N/A,5,4
+Shorter Hawks,30151,2014,NA,NA,3,"Baird, Ryan",,So,5,1
+Shorter Hawks,30151,2014,NA,NA,10,"Bora, Brandon",,So,0,0
+Shorter Hawks,30151,2014,NA,NA,15,"Bradford, Tyler",LSM,So,14,12
+Shorter Hawks,30151,2014,NA,NA,22,"Brinson, Ken",D,Fr,0,0
+Shorter Hawks,30151,2014,NA,NA,24,"Butz, Jordan",M,So,14,1
+Shorter Hawks,30151,2014,NA,NA,13,"Carson, Erik",GK,So,0,0
+Shorter Hawks,30151,2014,NA,NA,13,"Coates, Jordan",,N/A,13,2
+Shorter Hawks,30151,2014,NA,NA,12,"Currier, Jack",,Fr,12,6
+Shorter Hawks,30151,2014,NA,NA,21,"Dangel, Scott",M,So,13,0
+Shorter Hawks,30151,2014,NA,NA,1,"Dirkse, Zachery",,Fr,14,11
+Shorter Hawks,30151,2014,NA,NA,32,"Eason, Matthew",,So,0,0
+Shorter Hawks,30151,2014,NA,NA,17,"Ellis, Cody",,So,8,0
+Shorter Hawks,30151,2014,NA,NA,30,"Ewers, Andrew",,Fr,2,0
+Shorter Hawks,30151,2014,NA,NA,19,"Farley, Darchele",,N/A,1,0
+Shorter Hawks,30151,2014,NA,NA,7,"Feeley, Sean",M,So,0,0
+Shorter Hawks,30151,2014,NA,NA,36,"Foy, Patrick",A,Fr,0,0
+Shorter Hawks,30151,2014,NA,NA,1,"Hanson, Kolby",D,So,0,0
+Shorter Hawks,30151,2014,NA,NA,34,"Hinds, Jarrad",,So,0,0
+Shorter Hawks,30151,2014,NA,NA,3,"Janes, Ben",,So,8,0
+Shorter Hawks,30151,2014,NA,NA,34,"Jordan, Cole",D,Fr,8,0
+Shorter Hawks,30151,2014,NA,NA,5,"King, Andrew",M,Fr,14,5
+Shorter Hawks,30151,2014,NA,NA,23,"Kristiansen, Matt",,So,14,11
+Shorter Hawks,30151,2014,NA,NA,29,"Kristiansen, Tyler",,Fr,13,7
+Shorter Hawks,30151,2014,NA,NA,13,"Lohrengel, Nathan",,Fr,10,1
+Shorter Hawks,30151,2014,NA,NA,26,"Lutes, Brandon",,N/A,6,0
+Shorter Hawks,30151,2014,NA,NA,32,"Lyons, Sam",,N/A,4,0
+Shorter Hawks,30151,2014,NA,NA,19,"Malinowski, Alex",,N/A,1,0
+Shorter Hawks,30151,2014,NA,NA,6,"Matthews, Michael",D,So,0,0
+Shorter Hawks,30151,2014,NA,NA,26,"McDowell, Mike",,Fr,0,0
+Shorter Hawks,30151,2014,NA,NA,38,"Morris, Kyle",M,So,14,3
+Shorter Hawks,30151,2014,NA,NA,14,"Myerson, Michael",,Fr,14,1
+Shorter Hawks,30151,2014,NA,NA,28,"Paul, Jon",,N/A,10,0
+Shorter Hawks,30151,2014,NA,NA,5,"Phillips, Joshua",D,So,0,0
+Shorter Hawks,30151,2014,NA,NA,19,"Rodgers, Hunter",,So,0,0
+Shorter Hawks,30151,2014,NA,NA,10,"Santry, Michael",D,Fr,14,13
+Shorter Hawks,30151,2014,NA,NA,36,"Schott, Tyler",,N/A,14,8
+Shorter Hawks,30151,2014,NA,NA,33,"Short, Tanner",,N/A,5,2
+Shorter Hawks,30151,2014,NA,NA,6,"Skinner, Joshua",,Fr,14,1
+Shorter Hawks,30151,2014,NA,NA,20,"Stanfill, Stephan",,So,1,0
+Shorter Hawks,30151,2014,NA,NA,8,"Van Kauwenberg, Kyle",A,So,14,13
+Shorter Hawks,30151,2014,NA,NA,2,"VandenBrink, James",A,Fr,13,8
+Shorter Hawks,30151,2014,NA,NA,7,"Wacaser, Gus",,Fr,1,0
+Shorter Hawks,30151,2014,NA,NA,25,"Weise, Brandon",,Fr,2,0
+Shorter Hawks,30151,2014,NA,NA,27,"Wenzel, Spencer",,N/A,7,0
+Shorter Hawks,30151,2014,NA,NA,27,"Wilkie, Caleb",,So,0,0
+Shorter Hawks,30151,2014,NA,NA,23,"Willers, J.R.",G,Fr,13,11
+Shorter Hawks,30151,2014,NA,NA,11,"Williams, Michael",D,Fr,14,13
+Shorter Hawks,30151,2013,NA,NA,3,"Baird, Ryan",,Fr,4,0
+Shorter Hawks,30151,2013,NA,NA,10,"Bora, Brandon",,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,15,"Bradford, Tyler",LSM,Fr,11,9
+Shorter Hawks,30151,2013,NA,NA,22,"Brinson, Ken",D,N/A,11,9
+Shorter Hawks,30151,2013,NA,NA,24,"Butz, Jordan",M,Fr,13,4
+Shorter Hawks,30151,2013,NA,NA,13,"Carson, Erik",GK,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,12,"Currier, Jack",,N/A,4,0
+Shorter Hawks,30151,2013,NA,NA,21,"Dangel, Scott",M,Fr,13,2
+Shorter Hawks,30151,2013,NA,NA,1,"Dirkse, Zachery",,N/A,11,7
+Shorter Hawks,30151,2013,NA,NA,32,"Eason, Matthew",,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,17,"Ellis, Cody",,Fr,4,0
+Shorter Hawks,30151,2013,NA,NA,30,"Ewers, Andrew",,N/A,1,0
+Shorter Hawks,30151,2013,NA,NA,7,"Feeley, Sean",M,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,36,"Foy, Patrick",A,N/A,5,5
+Shorter Hawks,30151,2013,NA,NA,1,"Hanson, Kolby",D,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,34,"Hinds, Jarrad",,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,3,"Janes, Ben",,Fr,13,2
+Shorter Hawks,30151,2013,NA,NA,34,"Jordan, Cole",D,N/A,4,2
+Shorter Hawks,30151,2013,NA,NA,5,"King, Andrew",M,N/A,13,7
+Shorter Hawks,30151,2013,NA,NA,23,"Kristiansen, Matt",,Fr,11,10
+Shorter Hawks,30151,2013,NA,NA,29,"Kristiansen, Tyler",,N/A,13,5
+Shorter Hawks,30151,2013,NA,NA,13,"Lohrengel, Nathan",,N/A,1,0
+Shorter Hawks,30151,2013,NA,NA,6,"Matthews, Michael",D,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,26,"McDowell, Mike",,N/A,2,0
+Shorter Hawks,30151,2013,NA,NA,38,"Morris, Kyle",M,Fr,13,0
+Shorter Hawks,30151,2013,NA,NA,14,"Myerson, Michael",,N/A,13,1
+Shorter Hawks,30151,2013,NA,NA,5,"Phillips, Joshua",D,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,19,"Rodgers, Hunter",,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,10,"Santry, Michael",D,N/A,13,13
+Shorter Hawks,30151,2013,NA,NA,6,"Skinner, Joshua",,N/A,13,3
+Shorter Hawks,30151,2013,NA,NA,20,"Stanfill, Stephan",,Fr,12,0
+Shorter Hawks,30151,2013,NA,NA,8,"Van Kauwenberg, Kyle",A,Fr,13,13
+Shorter Hawks,30151,2013,NA,NA,2,"VandenBrink, James",A,N/A,13,13
+Shorter Hawks,30151,2013,NA,NA,7,"Wacaser, Gus",,N/A,4,0
+Shorter Hawks,30151,2013,NA,NA,25,"Weise, Brandon",,N/A,1,0
+Shorter Hawks,30151,2013,NA,NA,27,"Wilkie, Caleb",,Fr,0,0
+Shorter Hawks,30151,2013,NA,NA,23,"Willers, J.R.",G,N/A,13,13
+Shorter Hawks,30151,2013,NA,NA,11,"Williams, Michael",D,N/A,13,11
+Shorter Hawks,30151,2012,NA,NA,12,"12, Player",,N/A,1,0
+Shorter Hawks,30151,2012,NA,NA,25,"25, Player",,N/A,1,0
+Shorter Hawks,30151,2012,NA,NA,9,"9, Player",,N/A,1,0
+Shorter Hawks,30151,2012,NA,NA,3,"Baird, Ryan",,N/A,11,1
+Shorter Hawks,30151,2012,NA,NA,10,"Bora, Brandon",,N/A,3,1
+Shorter Hawks,30151,2012,NA,NA,15,"Bradford, Tyler",LSM,N/A,13,12
+Shorter Hawks,30151,2012,NA,NA,24,"Butz, Jordan",M,N/A,13,12
+Shorter Hawks,30151,2012,NA,NA,13,"Carson, Erik",GK,N/A,13,13
+Shorter Hawks,30151,2012,NA,NA,21,"Dangel, Scott",M,N/A,13,11
+Shorter Hawks,30151,2012,NA,NA,32,"Eason, Matthew",,N/A,8,1
+Shorter Hawks,30151,2012,NA,NA,17,"Ellis, Cody",,N/A,1,0
+Shorter Hawks,30151,2012,NA,NA,7,"Feeley, Sean",M,N/A,13,13
+Shorter Hawks,30151,2012,NA,NA,1,"Hanson, Kolby",D,N/A,13,9
+Shorter Hawks,30151,2012,NA,NA,34,"Hinds, Jarrad",,N/A,13,1
+Shorter Hawks,30151,2012,NA,NA,18,"Janes, Ben",,N/A,9,7
+Shorter Hawks,30151,2012,NA,NA,23,"Kristiansen, Matt",,N/A,10,8
+Shorter Hawks,30151,2012,NA,NA,6,"Matthews, Michael",D,N/A,13,9
+Shorter Hawks,30151,2012,NA,NA,38,"Morris, Kyle",M,N/A,13,6
+Shorter Hawks,30151,2012,NA,NA,5,"Phillips, Joshua",D,N/A,12,10
+Shorter Hawks,30151,2012,NA,NA,19,"Rodgers, Hunter",,N/A,5,1
+Shorter Hawks,30151,2012,NA,NA,20,"Stanfill, Stephan",,N/A,11,1
+Shorter Hawks,30151,2012,NA,NA,8,"Van Kauwenberg, Kyle",A,N/A,13,13
+Shorter Hawks,30151,2012,NA,NA,27,"Wilkie, Caleb",,N/A,12,1
+Southern Va. Knights,30164,2016,NA,NA,6,"Anderson, Deen",,Fr,14,4
+Southern Va. Knights,30164,2016,NA,NA,28,"Anderson, Mike",,So,14,0
+Southern Va. Knights,30164,2016,NA,NA,45,"Arave, Ian",,Fr,16,16
+Southern Va. Knights,30164,2016,NA,NA,1,"Bangerter, Mike",,Jr,15,1
+Southern Va. Knights,30164,2016,NA,NA,24,"Bonner, Cameron",,Fr,14,0
+Southern Va. Knights,30164,2016,NA,NA,2,"Brown, Seth",,Fr,5,0
+Southern Va. Knights,30164,2016,NA,NA,3,"Cook, Brady",,Fr,16,0
+Southern Va. Knights,30164,2016,NA,NA,16,"Danneman, Zach",,Fr,16,15
+Southern Va. Knights,30164,2016,NA,NA,11,"Giroux, Ciaran",,Jr,16,16
+Southern Va. Knights,30164,2016,NA,NA,27,"Good, Anthony",,So,15,0
+Southern Va. Knights,30164,2016,NA,NA,4,"Gowdy, Greg",,Jr,16,16
+Southern Va. Knights,30164,2016,NA,NA,44,"Hostetter, David",,Fr,0,0
+Southern Va. Knights,30164,2016,NA,NA,13,"Jensen, Adam",,Fr,1,0
+Southern Va. Knights,30164,2016,NA,NA,10,"Kargbo, Ibrahim",,So,8,0
+Southern Va. Knights,30164,2016,NA,NA,30,"Kimber, Payton",,Fr,16,1
+Southern Va. Knights,30164,2016,NA,NA,43,"Knighton, Adam",,Fr,1,0
+Southern Va. Knights,30164,2016,NA,NA,26,"LaTurner, Aleks",,Fr,1,0
+Southern Va. Knights,30164,2016,NA,NA,15,"Lamb, Devan",,So,1,0
+Southern Va. Knights,30164,2016,NA,NA,19,"Lamb, Derek",,Jr,2,0
+Southern Va. Knights,30164,2016,NA,NA,18,"Larsen, Ryan",,So,16,9
+Southern Va. Knights,30164,2016,NA,NA,12,"Lund, Logan",,Fr,16,16
+Southern Va. Knights,30164,2016,NA,NA,36,"Marks, Derek",,Fr,16,16
+Southern Va. Knights,30164,2016,NA,NA,40,"Maxfield, Colin",,So,12,12
+Southern Va. Knights,30164,2016,NA,NA,21,"McPherson, Braden",,Fr,1,0
+Southern Va. Knights,30164,2016,NA,NA,23,"Reece, Patrick",,So,13,0
+Southern Va. Knights,30164,2016,NA,NA,5,"Reich, Josh",,Fr,14,2
+Southern Va. Knights,30164,2016,NA,NA,22,"Rich, Casey",,So,16,16
+Southern Va. Knights,30164,2016,NA,NA,9,"Ruffin, Chris",,So,8,0
+Southern Va. Knights,30164,2016,NA,NA,25,"Tikala, Shawn",,So,12,2
+Southern Va. Knights,30164,2016,NA,NA,7,"Tunick, Spencer",,Fr,16,15
+Southern Va. Knights,30164,2016,NA,NA,17,"Vaughn, Alex",,So,4,1
+Southern Va. Knights,30164,2016,NA,NA,33,"Wynne, Jason",,Jr,1,1
+Southern Va. Knights,30164,2015,NA,NA,28,"Anderson, Mike",,Fr,14,1
+Southern Va. Knights,30164,2015,NA,NA,21,"Anderson, Russell",,Fr,16,16
+Southern Va. Knights,30164,2015,NA,NA,16,"Bangerter, Mike",,So,16,15
+Southern Va. Knights,30164,2015,NA,NA,14,"Blake, Marcel",,So,12,5
+Southern Va. Knights,30164,2015,NA,NA,3,"Buck, Jesse",,Fr,1,0
+Southern Va. Knights,30164,2015,NA,NA,11,"Giroux, Ciaran",,So,14,6
+Southern Va. Knights,30164,2015,NA,NA,27,"Good, Anthony",,Fr,16,16
+Southern Va. Knights,30164,2015,NA,NA,4,"Gowdy, Greg",,Jr,3,2
+Southern Va. Knights,30164,2015,NA,NA,10,"Kargbo, Ibrahim",,So,1,0
+Southern Va. Knights,30164,2015,NA,NA,7,"Lamb, Jacob",,So,1,0
+Southern Va. Knights,30164,2015,NA,NA,19,"Lamb, Derek",,Fr,16,15
+Southern Va. Knights,30164,2015,NA,NA,15,"Lamb, Devan",,Fr,8,0
+Southern Va. Knights,30164,2015,NA,NA,18,"Larsen, Ryan",,Fr,14,13
+Southern Va. Knights,30164,2015,NA,NA,34,"Lessing, Andrew",,So,9,2
+Southern Va. Knights,30164,2015,NA,NA,40,"Maxfield, Colin",,Fr,16,14
+Southern Va. Knights,30164,2015,NA,NA,32,"Miller, Ethan",,Fr,8,0
+Southern Va. Knights,30164,2015,NA,NA,31,"O'Brien, Sean",,So,1,0
+Southern Va. Knights,30164,2015,NA,NA,1,"Petersen, Sean",,Fr,15,14
+Southern Va. Knights,30164,2015,NA,NA,35,"Purvis, Derek",,So,16,14
+Southern Va. Knights,30164,2015,NA,NA,23,"Reece, Patrick",,Fr,16,0
+Southern Va. Knights,30164,2015,NA,NA,22,"Rich, Casey",,So,16,16
+Southern Va. Knights,30164,2015,NA,NA,20,"Smith, Colin",,So,8,1
+Southern Va. Knights,30164,2015,NA,NA,13,"Terry, Seth",,N/A,1,0
+Southern Va. Knights,30164,2015,NA,NA,25,"Tikala, Shawn",,Fr,16,5
+Southern Va. Knights,30164,2015,NA,NA,12,"Turnbull, Mckenzie",,Fr,13,4
+Southern Va. Knights,30164,2015,NA,NA,17,"Vaughn, Alex",,Fr,8,1
+Southern Va. Knights,30164,2015,NA,NA,33,"Wynne, Jason",,So,1,0
+Southern Va. Knights,30164,2014,NA,NA,16,"Bangerter, Mike",,N/A,15,14
+Southern Va. Knights,30164,2014,NA,NA,8,"Barraclough, Aaron",,N/A,4,2
+Southern Va. Knights,30164,2014,NA,NA,14,"Blake, Marcel",M,Fr,15,12
+Southern Va. Knights,30164,2014,NA,NA,4,"Boggs, A.J.",,N/A,6,0
+Southern Va. Knights,30164,2014,NA,NA,3,"Buck, Jessi",A,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,16,"Butler, Hyrum",,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,9,"Cain, Jamie",,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,15,"Canady, Thomas",D,N/A,14,14
+Southern Va. Knights,30164,2014,NA,NA,12,"Cox, Tyler",GK,N/A,13,12
+Southern Va. Knights,30164,2014,NA,NA,15,"Gamble, Presley",D,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,27,"Giroux, Ciaran",,N/A,13,2
+Southern Va. Knights,30164,2014,NA,NA,21,"Hardy, Chanson",,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,22,"Hardy, Ammon",,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,8,"Hostetter, David",A,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,22,"Kargbo, Ibrahim",D,N/A,13,9
+Southern Va. Knights,30164,2014,NA,NA,7,"Lamb, Jacob",M,N/A,4,4
+Southern Va. Knights,30164,2014,NA,NA,18,"Larsen, Ryan",M,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,13,"Lennox, Andrew",,N/A,1,0
+Southern Va. Knights,30164,2014,NA,NA,34,"Lessing, Andrew",D,N/A,12,8
+Southern Va. Knights,30164,2014,NA,NA,10,"Martinez, Brian",,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,12,"Martinez, Edward",,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,11,"Maw, Garrett",M,N/A,15,15
+Southern Va. Knights,30164,2014,NA,NA,33,"Michelsen, Josh",M,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,28,"Morse, Bryce",,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,25,"Neilson, Joshua",A,Fr,14,12
+Southern Va. Knights,30164,2014,NA,NA,31,"O'Brien, Sean",,N/A,1,0
+Southern Va. Knights,30164,2014,NA,NA,26,"Pennington, Cody",A,N/A,14,9
+Southern Va. Knights,30164,2014,NA,NA,35,"Purvis, Derek",,N/A,12,10
+Southern Va. Knights,30164,2014,NA,NA,4,"Rush, Derek",M,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,3,"Smith, Ryan",,N/A,1,0
+Southern Va. Knights,30164,2014,NA,NA,17,"Smith, Colin",D,Fr,10,3
+Southern Va. Knights,30164,2014,NA,NA,23,"Snyder, Chris",G,Fr,2,1
+Southern Va. Knights,30164,2014,NA,NA,21,"Thomas, Kai",,N/A,12,2
+Southern Va. Knights,30164,2014,NA,NA,11,"Thompson, Justin",,Fr,0,0
+Southern Va. Knights,30164,2014,NA,NA,6,"Tillotson, Ben",A,N/A,4,4
+Southern Va. Knights,30164,2014,NA,NA,24,"Ward, Michael",,N/A,8,0
+Southern Va. Knights,30164,2014,NA,NA,9,"Wilkey, Nash",M,N/A,15,13
+Southern Va. Knights,30164,2014,NA,NA,33,"Wynne, Jason",,N/A,8,5
+Southern Va. Knights,30164,2013,NA,NA,14,"Blake, Marcel",M,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,3,"Buck, Jessi",A,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,16,"Butler, Hyrum",,N/A,0,0
+Southern Va. Knights,30164,2013,NA,NA,9,"Cain, Jamie",,N/A,0,0
+Southern Va. Knights,30164,2013,NA,NA,15,"Gamble, Presley",D,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,22,"Hardy, Ammon",,N/A,1,0
+Southern Va. Knights,30164,2013,NA,NA,21,"Hardy, Chanson",,N/A,1,0
+Southern Va. Knights,30164,2013,NA,NA,8,"Hostetter, David",A,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,18,"Larsen, Ryan",M,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,10,"Martinez, Brian",,N/A,1,0
+Southern Va. Knights,30164,2013,NA,NA,12,"Martinez, Edward",,N/A,0,0
+Southern Va. Knights,30164,2013,NA,NA,33,"Michelsen, Josh",M,N/A,0,0
+Southern Va. Knights,30164,2013,NA,NA,28,"Morse, Bryce",,N/A,0,0
+Southern Va. Knights,30164,2013,NA,NA,25,"Neilson, Joshua",A,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,4,"Rush, Derek",M,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,17,"Smith, Colin",D,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,23,"Snyder, Chris",G,N/A,1,1
+Southern Va. Knights,30164,2013,NA,NA,11,"Thompson, Justin",,N/A,1,1
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,3,"Andrus, Dustin",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,21,"Baker, Andrew",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,18,"Baxter, Zach",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,23,"Blair, Josh",,N/A,7,1
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,9,"Blazer, Brian",,N/A,8,1
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,31,"Bonno, Alex",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,25,"Bowes, Andrew",,Fr,12,11
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,15,"Boyce, Victor",,Fr,5,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,27,"Bradford, Terry",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,33,"Brady, Matt",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,33,"Brangman, Greg",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,22,"Brogden, Richard",M,Jr,8,1
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,17,"Butterfield, Matt",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,26,"Caldwell, Ryan",,N/A,6,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,5,"Carden, Tony",M,Jr,12,10
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,2,"Cardiff, Ryan",,So,12,6
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,27,"Carter, Cam",,Fr,10,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,26,"Caswell, Taylor",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,11,"Connelly, Pat",A,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,14,"Cook, Brian",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,26,"Daley, Kristian",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,16,"DeCarr, Devin",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,3,"DeGaetano, Luke",,N/A,12,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,17,"DiTullio, Garrett",,So,12,12
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,24,"Dix, Dylan",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,21,"Drummatter, Ian",,Fr,5,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,18,"Elberty, Jack",M,N/A,12,12
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,6,"Emerson, Nick",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,32,"Fiske, Andrew",,N/A,3,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,19,"Gambacorta, Mike",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,6,"Gamble, Chris",,So,12,9
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,19,"Gleason, Rob",A,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,12,"Green, Kyle",,N/A,6,1
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,23,"Gruneisen, Devin",,So,11,7
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,30,"Hammond, Jeff",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,20,"Hanson, Brian",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,25,"Holcomb, Carlos",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,11,"Hughes, Trevor",A,N/A,5,2
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,2,"Jeneault, Ernie",D,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,1,"Jock, Jared",,N/A,6,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,7,"Kane, James",,Jr,5,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,12,"Keenan, Jack",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,28,"Lafferty, J.R.",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,1,"Liggio, Rob",D,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,3,"Main, Zack",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,19,"Matthews, Mike",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,35,"Morgano, Eric",D,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,19,"Mustizer, Taylor",D,N/A,12,12
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,10,"Novak, Steve",,So,9,9
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,8,"Nowak, Brian",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,28,"Opiela, Zack",,Fr,12,12
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,29,"Ousey, Bill",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,31,"Pepin, Andrew",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,1,"Pratt, Tanner",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,29,"Rivera, Victor",,So,8,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,16,"Rodee, Brandon",,N/A,12,1
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,34,"Rosen, Dylan",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,10,"Roundpoint, Trevor",M,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,14,"Schneider, Dave",,Fr,4,1
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,20,"Sloan, Zarrien",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,18,"Spadaccini, Shawn",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,13,"Spuck, Corey",,Jr,12,12
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,20,"Statt, Mike",,Fr,5,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,35,"Stevens, Jamie",,N/A,4,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,14,"Sztorc, Greg",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,23,"Thompson, Jason",A,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,12,"Tibbles, Alex",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,4,"Wight, Trevor",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,3,"Wilbur, Kyler",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,7,"Workman, Dan",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,15,",",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,32,",",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2015,NA,NA,30,",",,Jr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,3,"Andrus, Dustin",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,21,"Baker, Andrew",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,18,"Baxter, Zach",,N/A,2,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,31,"Bonno, Alex",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,25,"Bowes, Andrew",,N/A,12,11
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,15,"Boyce, Victor",,N/A,5,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,27,"Bradford, Terry",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,33,"Brady, Matt",,N/A,1,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,33,"Brangman, Greg",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,22,"Brogden, Richard",M,So,9,5
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,17,"Butterfield, Matt",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,5,"Carden, Tony",M,So,11,8
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,2,"Cardiff, Ryan",,Fr,12,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,27,"Carter, Cam",,N/A,12,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,26,"Caswell, Taylor",,So,12,7
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,11,"Connelly, Pat",A,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,14,"Cook, Brian",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,26,"Daley, Kristian",,Fr,10,8
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,16,"DeCarr, Devin",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,17,"DiTullio, Garrett",,Fr,12,9
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,24,"Dix, Dylan",,N/A,10,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,21,"Drummatter, Ian",,N/A,8,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,6,"Emerson, Nick",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,19,"Gambacorta, Mike",,N/A,5,1
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,6,"Gamble, Chris",,Fr,11,4
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,19,"Gleason, Rob",A,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,23,"Gruneisen, Devin",,Fr,12,1
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,30,"Hammond, Jeff",,Fr,3,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,20,"Hanson, Brian",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,25,"Holcomb, Carlos",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,2,"Jeneault, Ernie",D,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,9,"Kane, James",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,12,"Keenan, Jack",,N/A,12,12
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,28,"Lafferty, J.R.",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,1,"Liggio, Rob",D,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,3,"Main, Zack",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,19,"Matthews, Mike",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,35,"Morgano, Eric",D,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,10,"Novak, Steve",,Fr,6,2
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,8,"Nowak, Brian",,So,6,1
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,28,"Opiela, Zack",,N/A,12,10
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,29,"Ousey, Bill",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,31,"Pepin, Andrew",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,1,"Pratt, Tanner",,Fr,12,12
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,29,"Rivera, Victor",,Fr,11,5
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,34,"Rosen, Dylan",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,10,"Roundpoint, Trevor",M,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,14,"Schneider, Dave",,N/A,3,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,20,"Sloan, Zarrien",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,18,"Spadaccini, Shawn",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,13,"Spuck, Corey",,So,8,6
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,20,"Statt, Mike",,N/A,12,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,14,"Sztorc, Greg",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,23,"Thompson, Jason",A,So,4,4
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,12,"Tibbles, Alex",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,4,"Wight, Trevor",,So,11,3
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,3,"Wilbur, Kyler",,N/A,9,5
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,7,"Workman, Dan",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,32,",",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,15,",",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2014,NA,NA,30,",",,So,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,3,"Andrus, Dustin",,N/A,4,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,21,"Baker, Andrew",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,31,"Bonno, Alex",,N/A,12,11
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,27,"Bradford, Terry",,N/A,7,4
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,33,"Brangman, Greg",,Fr,6,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,22,"Brogden, Richard",M,Fr,10,8
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,17,"Butterfield, Matt",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,5,"Carden, Tony",M,Fr,12,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,2,"Cardiff, Ryan",,N/A,12,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,26,"Caswell, Taylor",,Fr,11,2
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,11,"Connelly, Pat",A,Fr,12,7
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,14,"Cook, Brian",,N/A,1,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,26,"Daley, Kristian",,N/A,12,12
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,16,"DeCarr, Devin",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,17,"DiTullio, Garrett",,N/A,12,6
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,6,"Emerson, Nick",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,6,"Gamble, Chris",,N/A,12,9
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,19,"Gleason, Rob",A,Fr,11,2
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,23,"Gruneisen, Devin",,N/A,11,5
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,30,"Hammond, Jeff",,N/A,7,1
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,20,"Hanson, Brian",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,25,"Holcomb, Carlos",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,2,"Jeneault, Ernie",D,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,9,"Kane, James",,Fr,6,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,28,"Lafferty, J.R.",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,1,"Liggio, Rob",D,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,3,"Main, Zack",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,19,"Matthews, Mike",,N/A,9,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,35,"Morgano, Eric",D,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,10,"Novak, Steve",,N/A,8,5
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,8,"Nowak, Brian",,Fr,7,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,29,"Ousey, Bill",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,31,"Pepin, Andrew",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,1,"Pratt, Tanner",,N/A,12,12
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,29,"Rivera, Victor",,N/A,12,12
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,34,"Rosen, Dylan",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,10,"Roundpoint, Trevor",M,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,20,"Sloan, Zarrien",,N/A,7,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,18,"Spadaccini, Shawn",,Fr,5,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,13,"Spuck, Corey",,Fr,12,11
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,14,"Sztorc, Greg",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,23,"Thompson, Jason",A,Fr,12,12
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,12,"Tibbles, Alex",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,4,"Wight, Trevor",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,7,"Workman, Dan",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,30,",",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,15,",",,Fr,8,0
+SUNY Canton Kangaroos (Roos),30165,2013,NA,NA,32,",",,Fr,0,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,21,"Baker, Andrew",,N/A,4,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,33,"Brangman, Greg",,N/A,4,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,22,"Brogden, Richard",M,N/A,7,7
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,17,"Butterfield, Matt",,N/A,7,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,5,"Carden, Tony",M,N/A,9,5
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,26,"Caswell, Taylor",,N/A,9,5
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,11,"Connelly, Pat",A,N/A,7,5
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,16,"DeCarr, Devin",,N/A,3,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,6,"Emerson, Nick",,N/A,1,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,19,"Gleason, Rob",A,N/A,9,9
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,20,"Hanson, Brian",,N/A,8,3
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,25,"Holcomb, Carlos",,N/A,8,5
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,2,"Jeneault, Ernie",D,N/A,4,2
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,9,"Kane, James",,N/A,7,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,28,"Lafferty, J.R.",,N/A,1,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,1,"Liggio, Rob",D,N/A,8,7
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,3,"Main, Zack",,N/A,5,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,35,"Morgano, Eric",D,N/A,8,6
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,8,"Nowak, Brian",,N/A,2,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,29,"Ousey, Bill",,N/A,1,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,31,"Pepin, Andrew",,N/A,2,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,34,"Rosen, Dylan",,N/A,1,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,10,"Roundpoint, Trevor",M,N/A,5,2
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,18,"Spadaccini, Shawn",,N/A,6,1
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,13,"Spuck, Corey",,N/A,9,8
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,14,"Sztorc, Greg",,N/A,2,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,23,"Thompson, Jason",A,N/A,9,8
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,12,"Tibbles, Alex",,N/A,10,8
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,4,"Wight, Trevor",,N/A,9,8
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,7,"Workman, Dan",,N/A,7,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,15,",",,N/A,2,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,30,",",,N/A,2,0
+SUNY Canton Kangaroos (Roos),30165,2012,NA,NA,32,",",,N/A,1,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,,"--,",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,21,"Barr, James",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,1,"Bendon, Alex",,Jr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,15,"Cappiello, Colton",,Jr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,27,"Carroccio, Kyle",,So,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,9,"Delvalle, Andy",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,25,"Eipp, Kevin",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,8,"Flynn, Kenny",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,2,"Francis, Shane",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,28,"Gillette, Marc",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,16,"Gonzalez, Pete",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,10,"Hughes, Steve",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,13,"Keller, Chris",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,20,"King, Rory",,So,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,12,"Knezick, Tom",,Jr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,3,"Lazore, Jake",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,26,"Makowicki, Chris",,So,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,18,"Murphy, Brian",,Jr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,24,"Myers, Greg",,So,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,23,"Nelson, Rich",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,14,"Pellegrini, Matt",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,17,"Pernell, Cooper",,So,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,7,"Posson, Eric",,Jr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,5,"Schwartz, Dan",,So,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,30,"Swamp, Leon",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,29,"Tizzio, Cory",,Jr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,22,"Ward, Paul",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,4,"Welch, Ben",,Fr,0,0
+Cobleskill St. Fighting Tigers,30083,2010,United East,30071,19,"Wohl, Alex",,Fr,0,0
+SUNY Delhi Broncos,30225,2018,NA,NA,10,"Anderson, Luke",,Sr,10,1
+SUNY Delhi Broncos,30225,2018,NA,NA,13,"Barton, John",,Sr,1,1
+SUNY Delhi Broncos,30225,2018,NA,NA,5,"Cange, Ross",,Fr,10,1
+SUNY Delhi Broncos,30225,2018,NA,NA,30,"Conti, Brian",,Fr,8,1
+SUNY Delhi Broncos,30225,2018,NA,NA,15,"Crowley, Pearse",,Sr,9,2
+SUNY Delhi Broncos,30225,2018,NA,NA,24,"Cumisky, Ryan",,Fr,10,9
+SUNY Delhi Broncos,30225,2018,NA,NA,9,"Famolare, Sam",,Fr,8,1
+SUNY Delhi Broncos,30225,2018,NA,NA,41,"Ferranti, Anthony",,So,3,0
+SUNY Delhi Broncos,30225,2018,NA,NA,12,"Focarino, Lorenzo",,N/A,1,0
+SUNY Delhi Broncos,30225,2018,NA,NA,44,"Harten, Stephen",,Sr,9,6
+SUNY Delhi Broncos,30225,2018,NA,NA,22,"Iii, John",,So,9,8
+SUNY Delhi Broncos,30225,2018,NA,NA,17,"Joyce-Borg, Aiden",,So,4,0
+SUNY Delhi Broncos,30225,2018,NA,NA,3,"Katz, Brandon",,So,8,0
+SUNY Delhi Broncos,30225,2018,NA,NA,42,"Lao, Luis",,N/A,0,0
+SUNY Delhi Broncos,30225,2018,NA,NA,27,"Leary, Jeremy",,Sr,9,8
+SUNY Delhi Broncos,30225,2018,NA,NA,33,"McDonough, Dillon",,Fr,8,8
+SUNY Delhi Broncos,30225,2018,NA,NA,20,"Morse, Eric",GK,Sr,10,10
+SUNY Delhi Broncos,30225,2018,NA,NA,21,"Nygard, Jacob",,So,10,8
+SUNY Delhi Broncos,30225,2018,NA,NA,45,"Restaino, Dante",,Fr,4,0
+SUNY Delhi Broncos,30225,2018,NA,NA,51,"Russo, Antonio",,So,10,10
+SUNY Delhi Broncos,30225,2018,NA,NA,2,"Scheeler, Brendan",,So,10,4
+SUNY Delhi Broncos,30225,2018,NA,NA,0,"Shuaib, Al",,Fr,5,1
+SUNY Delhi Broncos,30225,2018,NA,NA,19,"Spaziani, Mitch",,So,10,9
+SUNY Delhi Broncos,30225,2018,NA,NA,55,"Talbert, Malik",,Jr,10,10
+SUNY Delhi Broncos,30225,2018,NA,NA,11,"Tillman, Sean",,Fr,8,1
+SUNY Delhi Broncos,30225,2018,NA,NA,1,"Woessner, Brad",,So,1,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,20,"Arbaugh, Brenden",,Sr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,23,"Bacchiochi, Daniel",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,6,"Burns, Phillip",,Sr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,42,"Buzzelli, Connor",,Sr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,27,"Cato, Cody",,Jr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,50,"Caven, Shawn",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,4,"Coggins, Patrick",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,15,"Getz, Travis",,Jr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,22,"Getz, Jordan",,Jr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,24,"Ginnetti, Donald",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,14,"Larouere, Noah",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,21,"Leech, Isaac",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,34,"Muhl, Ryan",,Sr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,1,"Ortega, Oscar",,Sr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,5,"Richardson, Rob",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,18,"Schonhiutt, Michael",,Sr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,36,"Skinner, Samuel",,Sr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,2,"Smith, Jamison",,Sr,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,25,"Stakes, Ryan",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,8,"Tirado, Antonio",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,17,"Turley, Austin",,So,0,0
+Wheeling Cardinals,12799,2020,DII Independent,NA,48,"Turner, Preston",,Sr,0,0
+Young Harris Mountain Lions,30154,2014,NA,NA,0,"Appolonia, Joe",,So,15,2
+Young Harris Mountain Lions,30154,2014,NA,NA,21,"Ashley, Alex",,So,4,0
+Young Harris Mountain Lions,30154,2014,NA,NA,8,"Barrett, Zac",,Fr,15,14
+Young Harris Mountain Lions,30154,2014,NA,NA,15,"Fancher, Eric",,Fr,15,1
+Young Harris Mountain Lions,30154,2014,NA,NA,13,"Griffin-Bailey, Walter",,Fr,4,0
+Young Harris Mountain Lions,30154,2014,NA,NA,33,"Hasty, Jacob",,Fr,12,5
+Young Harris Mountain Lions,30154,2014,NA,NA,37,"Henize, Kyle",,Jr,0,0
+Young Harris Mountain Lions,30154,2014,NA,NA,24,"Jordan, Stephen",,Fr,14,10
+Young Harris Mountain Lions,30154,2014,NA,NA,1,"Kim, Andrew",,Sr,15,13
+Young Harris Mountain Lions,30154,2014,NA,NA,7,"Laird, Zachary",,Fr,15,13
+Young Harris Mountain Lions,30154,2014,NA,NA,27,"McBroom, Mason",,So,15,2
+Young Harris Mountain Lions,30154,2014,NA,NA,66,"Ningard, Ryan",,Sr,15,13
+Young Harris Mountain Lions,30154,2014,NA,NA,23,"Ostrowski, Kerry",,Fr,14,12
+Young Harris Mountain Lions,30154,2014,NA,NA,2,"Parker, Bobby",,Sr,15,12
+Young Harris Mountain Lions,30154,2014,NA,NA,5,"Peek, Will",,Fr,11,1
+Young Harris Mountain Lions,30154,2014,NA,NA,11,"Pickowitz, Ryan",,So,10,1
+Young Harris Mountain Lions,30154,2014,NA,NA,3,"Pittman, Connor",,Fr,8,1
+Young Harris Mountain Lions,30154,2014,NA,NA,9,"Price, Tyler",,So,5,4
+Young Harris Mountain Lions,30154,2014,NA,NA,10,"Robertson, Phillip",,So,14,12
+Young Harris Mountain Lions,30154,2014,NA,NA,45,"Schneider, Alex",,Fr,6,2
+Young Harris Mountain Lions,30154,2014,NA,NA,20,"Shepardson, Tanner",,So,15,12
+Young Harris Mountain Lions,30154,2014,NA,NA,14,"Siemen, Sean",,Fr,2,0
+Young Harris Mountain Lions,30154,2014,NA,NA,4,"Spadafora, Matt",,So,15,9
+Young Harris Mountain Lions,30154,2014,NA,NA,44,"Staniewicz, Adam",,So,15,0
+Young Harris Mountain Lions,30154,2014,NA,NA,99,"Wilkinson, Reed",,So,10,2
+Young Harris Mountain Lions,30154,2013,NA,NA,1,"Adams, Ronnie",,Fr,10,8
+Young Harris Mountain Lions,30154,2013,NA,NA,22,"Amell, Matt",,Fr,12,7
+Young Harris Mountain Lions,30154,2013,NA,NA,0,"Appolonia, Joe",,Fr,12,0
+Young Harris Mountain Lions,30154,2013,NA,NA,21,"Ashley, Alex",,Fr,5,2
+Young Harris Mountain Lions,30154,2013,NA,NA,13,"Bramblett, Tyler",,Fr,10,1
+Young Harris Mountain Lions,30154,2013,NA,NA,16,"Brown, Jarrett",,Fr,0,0
+Young Harris Mountain Lions,30154,2013,NA,NA,4,"Campaneria, Chris",,Fr,2,0
+Young Harris Mountain Lions,30154,2013,NA,NA,69,"Daly, Kevin",,Fr,3,0
+Young Harris Mountain Lions,30154,2013,NA,NA,37,"Henize, Kyle",,So,2,0
+Young Harris Mountain Lions,30154,2013,NA,NA,33,"Kim, Andrew",,Jr,11,10
+Young Harris Mountain Lions,30154,2013,NA,NA,2,"Lindquist, Marcus",,Fr,12,7
+Young Harris Mountain Lions,30154,2013,NA,NA,7,"Mata, Rene",,Fr,0,0
+Young Harris Mountain Lions,30154,2013,NA,NA,76,"Matthews, Mike",,Sr,12,2
+Young Harris Mountain Lions,30154,2013,NA,NA,27,"McBroom, Mason",,Fr,11,0
+Young Harris Mountain Lions,30154,2013,NA,NA,15,"Moran, Patrick",,Fr,9,8
+Young Harris Mountain Lions,30154,2013,NA,NA,32,"Naftal, Alex",,Fr,6,2
+Young Harris Mountain Lions,30154,2013,NA,NA,66,"Ningard, Ryan",,Jr,12,12
+Young Harris Mountain Lions,30154,2013,NA,NA,24,"Parker, Bobby",,Jr,9,7
+Young Harris Mountain Lions,30154,2013,NA,NA,5,"Peek, Will",,Fr,8,8
+Young Harris Mountain Lions,30154,2013,NA,NA,11,"Pickowitz, Ryan",,Fr,9,3
+Young Harris Mountain Lions,30154,2013,NA,NA,9,"Price, Tyler",,Fr,12,12
+Young Harris Mountain Lions,30154,2013,NA,NA,23,"Rice, Darian",,Fr,2,0
+Young Harris Mountain Lions,30154,2013,NA,NA,67,"Rivait, Jeff",,So,12,2
+Young Harris Mountain Lions,30154,2013,NA,NA,10,"Robertson, Phillip",,Fr,12,10
+Young Harris Mountain Lions,30154,2013,NA,NA,20,"Shepardson, Tanner",,Fr,12,12
+Young Harris Mountain Lions,30154,2013,NA,NA,45,"Spadafora, Matt",,Fr,11,0
+Young Harris Mountain Lions,30154,2013,NA,NA,44,"Staniewicz, Adam",,Fr,8,2
+Young Harris Mountain Lions,30154,2013,NA,NA,12,"Warbington, Andrew",,Fr,8,2
+Young Harris Mountain Lions,30154,2013,NA,NA,99,"Wilkinson, Reed",,Fr,5,3
+Young Harris Mountain Lions,30154,2013,NA,NA,6,"Woodruff, Tyler",,Fr,1,0
